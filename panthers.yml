@@ -2,7 +2,11 @@ team: Panthers
 
 manager: Sebastian
 
+<<<<<<< HEAD
 Shirley: Teddy
+=======
+Raymond: Teddy
+>>>>>>> f4170d8 (Edit Panthers)
 
 members:
 - Violet
